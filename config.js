@@ -4,7 +4,7 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "送给你",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "小可爱",  // 同上...
+        "我的挚友",  // 同上...
         "今天是你的生日",
         "同时也是我们认识的",
         "大概第四个年头了",
@@ -32,7 +32,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "挂幅",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
